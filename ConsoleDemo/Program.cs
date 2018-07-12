@@ -88,11 +88,11 @@ namespace ConsoleDemo
             }
            // int lenCount = map10.Length % 3;
             
-            Console.WriteLine(map10);
-            Console.WriteLine(map10.Length);
+            //Console.WriteLine(map10);
+            //Console.WriteLine(map10.Length);
 
-            Console.WriteLine(newmap);
-            Console.WriteLine(newmap.Length);
+            //Console.WriteLine(newmap);
+            //Console.WriteLine(newmap.Length);
 
 
             //string nameFull = "code";
