@@ -106,8 +106,6 @@ namespace ConsoleDemo
             //obj.Print();
 
             new TryCatch().printnew();
-
-
             Console.ReadLine();
         }
     }
