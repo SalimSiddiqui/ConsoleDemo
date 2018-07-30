@@ -102,8 +102,10 @@ namespace ConsoleDemo
 
             //Console.WriteLine("Remaining characters :" + LastChar);
 
-            CanInstantiateSealedClass obj = new CanInstantiateSealedClass();
-            obj.Print();
+            //CanInstantiateSealedClass obj = new CanInstantiateSealedClass();
+            //obj.Print();
+
+            new TryCatch().printnew();
 
 
             Console.ReadLine();
