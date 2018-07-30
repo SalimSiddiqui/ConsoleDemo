@@ -86,8 +86,8 @@ namespace ConsoleDemo
             {
                 newmap = map10.Remove(map10.Length - lenCount, lenCount);
             }
-           // int lenCount = map10.Length % 3;
-            
+            // int lenCount = map10.Length % 3;
+
             //Console.WriteLine(map10);
             //Console.WriteLine(map10.Length);
 
@@ -101,6 +101,10 @@ namespace ConsoleDemo
             //string LastChar = nameFull.Remove(4);
 
             //Console.WriteLine("Remaining characters :" + LastChar);
+
+            CanInstantiateSealedClass obj = new CanInstantiateSealedClass();
+            obj.Print();
+
 
             Console.ReadLine();
         }

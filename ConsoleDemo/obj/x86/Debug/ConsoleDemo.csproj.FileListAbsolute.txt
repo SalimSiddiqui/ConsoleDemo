@@ -15,3 +15,6 @@ C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDe
 C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
 C:\projects\Git\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
 C:\projects\Git\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
+C:\projects\Git\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\projects\Git\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\projects\Git\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
