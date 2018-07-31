@@ -105,7 +105,10 @@ namespace ConsoleDemo
             //CanInstantiateSealedClass obj = new CanInstantiateSealedClass();
             //obj.Print();
 
-            new TryCatch().printnew();
+           
+
+
+
             Console.ReadLine();
         }
     }
