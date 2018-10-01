@@ -27,12 +27,12 @@ namespace ConsoleDemo.DesignPatern
     {
         public Bike getBike(string name)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public Scooter getScooter(string name)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         

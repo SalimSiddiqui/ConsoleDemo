@@ -79,13 +79,23 @@ namespace ConsoleDemo
 
 
             //  new Ref_Key().call();
-            string newmap = string.Empty;
-            string map10 = "10104302001480840630010632";
-            int lenCount = map10.Length % 3;
-            if (lenCount>0)
-            {
-                newmap = map10.Remove(map10.Length - lenCount, lenCount);
-            }
+            //Console.WriteLine("-----------");
+            //new Out_Ket().call();
+
+            Console.WriteLine("-----------");
+            new Ref_Key2().call();
+
+            Console.WriteLine("-----------");
+            new Out_Key2().call();
+
+            //string newmap = string.Empty;
+            //string map10 = "10104302001480840630010632";
+            //int lenCount = map10.Length % 3;
+            //if (lenCount>0)
+            //{
+            //    newmap = map10.Remove(map10.Length - lenCount, lenCount);
+            //}
+
             // int lenCount = map10.Length % 3;
 
             //Console.WriteLine(map10);
@@ -105,7 +115,7 @@ namespace ConsoleDemo
             //CanInstantiateSealedClass obj = new CanInstantiateSealedClass();
             //obj.Print();
 
-           
+            new MainClass().Call();
 
 
 

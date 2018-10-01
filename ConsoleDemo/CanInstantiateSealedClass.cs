@@ -13,8 +13,13 @@ namespace ConsoleDemo
         public void Print()
         {
             Console.WriteLine("asdfsadfs");
+            
         }
     }
+    //public class CanNotInstantiateSealedClass : System.Data.SqlClient.SqlConnection
+    //{
+
+    //}
 
     // Can not inherit sealed calss but can be instantiated 
     //public class abc: CanInstantiateSealedClass
