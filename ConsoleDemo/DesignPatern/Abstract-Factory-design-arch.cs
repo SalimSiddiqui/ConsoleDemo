@@ -49,6 +49,7 @@ namespace ConsoleDemo.DesignPatern
 
         public class Client
         {
+            // salam 29-10
             private AbstractProductA _productA;
             private AbstractProductB _productB;
             public Client(abstarctFactory factory)
