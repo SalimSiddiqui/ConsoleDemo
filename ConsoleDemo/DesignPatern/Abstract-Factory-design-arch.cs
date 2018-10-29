@@ -56,7 +56,6 @@ namespace ConsoleDemo.DesignPatern
                 _productA = factory.CreateProductA();
                 _productB = factory.CreateProductB();
 
-
             }
 
         }
