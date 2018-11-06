@@ -50,6 +50,7 @@
     <Compile Include="Delegatee\DelegateDemo1.cs" />
     <Compile Include="DesignPatern\Abstract-Factory-design-arch.cs" />
     <Compile Include="DesignPatern\Abstract-Factory-design-imp.cs" />
+    <Compile Include="DesignPatern\BuilderPatern-Imp.cs" />
     <Compile Include="DesignPatern\BuilderPatern.cs" />
     <Compile Include="DesignPatern\FactoryMethodDesignPattern-arch.cs" />
     <Compile Include="Overloading_Overriding.cs" />
