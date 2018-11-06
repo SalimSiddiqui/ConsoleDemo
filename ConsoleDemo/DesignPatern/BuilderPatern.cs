@@ -23,7 +23,7 @@ namespace ConsoleDemo.DesignPatern
 
         public void BuildPart1()
         {
-            _product.Part1 = "Part 1";
+            _product.Part1 = "Part 11";
         }
 
         public void BuildPart2()
