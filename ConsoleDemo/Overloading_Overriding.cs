@@ -11,7 +11,7 @@ namespace ConsoleDemo
         {
             return 0;
         }
-        //* return type will not be consider with same name and and same no of paramter in mehtod overloading//
+        //* return type will not be consider with same name and  same no of paramter in mehtod overloading//
 
         //public float add(int a, int b)
         //{
