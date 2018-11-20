@@ -162,21 +162,21 @@ namespace ConsoleDemo.DesignPatern
     /// </summary>
     class Program
     {
-        static void Main(string[] args)
-        {
-            var vehicleCreator = new VehicleCreator(new HeroBuilder());
-            vehicleCreator.CreateVehicle();
-            var vehicle = vehicleCreator.GetVehicle();
-            vehicle.ShowInfo();
+        //static void Main(string[] args)
+        //{
+        //    var vehicleCreator = new VehicleCreator(new HeroBuilder());
+        //    vehicleCreator.CreateVehicle();
+        //    var vehicle = vehicleCreator.GetVehicle();
+        //    vehicle.ShowInfo();
 
-            Console.WriteLine("---------------------------------------------");
+        //    Console.WriteLine("---------------------------------------------");
 
-            vehicleCreator = new VehicleCreator(new HondaBuilder());
-            vehicleCreator.CreateVehicle();
-            vehicle = vehicleCreator.GetVehicle();
-            vehicle.ShowInfo();
+        //    vehicleCreator = new VehicleCreator(new HondaBuilder());
+        //    vehicleCreator.CreateVehicle();
+        //    vehicle = vehicleCreator.GetVehicle();
+        //    vehicle.ShowInfo();
 
-            Console.ReadKey();
-        }
+        //    Console.ReadKey();
+        //}
     }
 }
