@@ -7,6 +7,9 @@ namespace ConsoleDemo.Transaction
 {
    public class TransactionInTwoDB
     {
+        public TransactionInTwoDB()
+        {
 
+        }
     }
 }
