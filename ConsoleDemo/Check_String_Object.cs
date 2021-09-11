@@ -17,7 +17,7 @@ namespace ConsoleDemo
         }
         public void Print(int p)
         {
-            Console.WriteLine("int P");
+            Console.WriteLine("int PPP");
         }
     }
 }
