@@ -23,3 +23,11 @@ C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\obj\x86\Debug\Con
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csproj.AssemblyReference.cache
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csproj.SuggestedBindingRedirects.cache
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
+E:\App\Git\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
